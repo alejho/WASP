@@ -1,0 +1,17 @@
+{
+    "rule1": {
+        "hour":12,
+        "minute":45,
+        "action":true
+    },
+    "rule2": {
+        "hour":13,
+        "minute":25,
+        "action":false
+    },
+    "rule3": {
+        "hour":7,
+        "minute":5,
+        "action":true
+    }
+} 
